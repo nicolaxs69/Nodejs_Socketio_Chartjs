@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_socket_charjj",
+  "version": "1.0.0",
+  "description": "Graficar con chatjs datos de arduino con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chartjs"
+  ],
+  "author": "Nicolas Escobar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
